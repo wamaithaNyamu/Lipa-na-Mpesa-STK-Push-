@@ -9,10 +9,10 @@ import {
 } from "../controllers/controllers.lipanampesa.js";
 
 
-import {access} from "../middlewares/middlewares.generateAccessToken.js";
+import {accessToken} from "../middlewares/middlewares.generateAccessToken.js";
 
-router.route('/stkPush').post(access,initiateSTKPush)
+router.route('/stkPush').post(accessToken,initiateSTKPush)
 router.route('/stkPushCallback/:Order_ID').post(stkPushCallback)
-router.route('/confirmPayment/:CheckoutRequestID').post(access,confirmPayment)
+router.route('/confirmPayment/:CheckoutRequestID').post(accessToken,confirmPayment)
 
 export default router
