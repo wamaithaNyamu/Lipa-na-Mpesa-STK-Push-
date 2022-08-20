@@ -77,7 +77,10 @@ To run the webscrapper
    ```sh
    node server.js
    ```
-4. Send request the the three endpoints on postman.
+4. Use postman to make requests.
+
+![](Images/mpesa8.png)
+![](Images/mpesa11.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
