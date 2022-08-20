@@ -29,13 +29,13 @@
 <!-- PROJECT LOGO -->
 [![Product Name Screen Shot][product-screenshot]](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs)
 
-
+Accompanying blog can be found [here](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs)
 <div>
 <h3 align="center">Mpesa Express Daraja API integration in Nodejs and express</h3>
 
   <p align="center">
    Sending user a prompt to pay for an order using the stk push API and also confirming the payment using the checkout request ID
-
+   
   </p>
 </div>
 
@@ -125,5 +125,5 @@ Project Link: [https://github.com/wamaithanyamu/Lipa-na-Mpesa-STK-Push-](https:/
 [license-url]: https://github.com/wamaithanyamu/Lipa-na-Mpesa-STK-Push-/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/wamaithanyamu
-[product-screenshot]: images/daraja.png
+[product-screenshot]: Images/daraja.png
 
