@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 [![Product Name Screen Shot][product-screenshot]](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs)
 
-Accompanying blog can be found [here](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs)
+Accompanying blog can be found [here](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs~~~~)
 <div>
 <h3 align="center">Mpesa Express Daraja API integration in Nodejs and express</h3>
 
@@ -64,7 +64,16 @@ To run the webscrapper
    ```sh
    npm install
    ```
-3. Run the server
+3. Create a .env file and add the following values. Retrieve them from the Safaricom daraja portal [here](https://developer.safaricom.co.ke/)
+   ```shell
+      SAFARICOM_CONSUMER_SECRET=
+      SAFARICOM_CONSUMER_KEY=
+      PASS_KEY=
+      BUSINESS_SHORT_CODE=
+      PORT=3000 # port your server will run on
+   ```
+
+4. Run the server
    ```sh
    node server.js
    ```
