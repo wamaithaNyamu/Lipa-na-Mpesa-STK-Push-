@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 [![Product Name Screen Shot][product-screenshot]](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs)
 
-Accompanying blog can be found [here](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs~~~~)
+Accompanying blog can be found [here](https://wamaithanyamu.com/how-to-integrate-the-mpesa-stk-push-api-in-nodejs)
 <div>
 <h3 align="center">Mpesa Express Daraja API integration in Nodejs and express</h3>
 
